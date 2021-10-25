@@ -1,0 +1,3 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLNote</id><coordinates><x>160</x><y>230</y><w>140</w><h>70</h></coordinates><panel_attributes>Note..
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>210</x><y>150</y><w>120</w><h>40</h></coordinates><panel_attributes>*Use case 3*</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>180</y><w>80</w><h>60</h></coordinates><panel_attributes>lt=.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>50;10;20;40</additional_attributes></element></diagram>
